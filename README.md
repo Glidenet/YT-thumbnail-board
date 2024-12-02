@@ -74,5 +74,5 @@ The YouTube Thumbnail Board Web App is a simple and efficient tool to extract an
 
 Feel free to fork the repository, contribute, or provide feedback!
 
-### **Desined and Code by**
+### **Designed and Code by**
 [Wazir Kazimi](https://github.com/wazirkazimi)
